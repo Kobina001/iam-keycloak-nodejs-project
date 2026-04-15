@@ -42,7 +42,7 @@ It simulates enterprise-level authentication and authorization workflows used in
 
 
 
-🏗 System Architecture
+System Architecture
 
 
 
@@ -54,7 +54,7 @@ User → Node.js App → Keycloak → JWT Token → Role Validation → Access C
 
 
 
-🧠 IAM Concepts Demonstrated
+IAM Concepts Demonstrated
 
 
 
@@ -336,7 +336,7 @@ Red Teaming
 Security Engineering
 
 
-<h2 align="center">🏗 Enterprise IAM Architecture</h2>
+<h2 align="center"> IAM Architecture</h2>
 
 <p align="center">
   <img src="screenshots/architecture-diagram.png" width="900"/>
