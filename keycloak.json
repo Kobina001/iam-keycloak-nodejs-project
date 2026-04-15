@@ -1,0 +1,9 @@
+{
+  "realm": "Company-Realm",
+  "auth-server-url": "http://localhost:8080/realms/Company-Realm",
+  "ssl-required": "external",
+  "resource": "node-app",
+  "credentials": {
+    "secret": "8GeAIh3woRIxcIpzw5795bXDH0oiGG32"
+  }
+}
