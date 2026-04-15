@@ -335,3 +335,9 @@ Red Teaming
 
 Security Engineering
 
+
+<h2 align="center">🏗 Enterprise IAM Architecture</h2>
+
+<p align="center">
+  <img src="screenshots/architecture-diagram.png" width="900"/>
+</p>
